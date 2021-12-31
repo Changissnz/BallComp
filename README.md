@@ -18,3 +18,4 @@ Folder contains paper on BallComp and related test code in `CT`.
 
 - Fixed Lemma 5.1 and 5.2. 
 - Paper has been edited.
+	* obvious errors have been removed.
