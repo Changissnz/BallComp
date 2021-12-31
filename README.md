@@ -17,3 +17,4 @@ Folder contains paper on BallComp and related test code in `CT`.
 12/31/21
 
 - Fixed Lemma 5.1 and 5.2. 
+- Paper has been edited.
