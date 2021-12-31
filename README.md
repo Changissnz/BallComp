@@ -13,3 +13,7 @@ Folder contains paper on BallComp and related test code in `CT`.
 12/30/21
 
 - Added upper and lower bound estimate for disjunction estimation.
+
+12/31/21
+
+- Fixed Lemma 5.1 and 5.2. 
