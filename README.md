@@ -19,3 +19,7 @@ Folder contains paper on BallComp and related test code in `CT`.
 - Fixed Lemma 5.1 and 5.2. 
 - Paper has been edited.
 	* obvious errors have been removed.
+	
+1/1/21
+
+- Confused lower estimate for upper estimate on function `F_{add}`. Fixed.
