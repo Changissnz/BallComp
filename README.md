@@ -23,3 +23,7 @@ Folder contains paper on BallComp and related test code in `CT`.
 1/1/21
 
 - Confused lower estimate for upper estimate on function `F_{add}`. Fixed.
+
+1/4/21
+
+- Fixed runtime bounds for function `Q^(2)_approx` (pg. 23,24)
