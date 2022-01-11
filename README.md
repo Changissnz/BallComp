@@ -30,4 +30,4 @@ Folder contains paper on BallComp and related test code in `CT`.
 
 1/10/22
 
-- Fixed Lemma 3.1.
+- Fixed Lemma 3.1. parts 2 and 3.
