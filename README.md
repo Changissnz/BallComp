@@ -27,3 +27,7 @@ Folder contains paper on BallComp and related test code in `CT`.
 1/4/21
 
 - Fixed runtime bounds for function `Q^(2)_approx` (pg. 23,24)
+
+1/10/21
+
+- Fixed Lemma 3.1.
